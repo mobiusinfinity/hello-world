@@ -7,10 +7,13 @@
 <body>
 
 <h1>Hello world!</h1>
-<div><img src="img_hello_world.jpg" alt="Hello world from space" style="width:100%;max-width:960px"></div>
-<p>This is the first file in my new Git Repo.</p>
-<p>We fixed the emergency here!</p>
 
+<div><img src="img_hello_world.jpg" alt="Hello world from space" style="width:100%;max-width:960px"></div>
+
+<p>This is the first file in my new Git Repo.</p>
+<p>This is to show how merging works!</p>
+
+<div><img src="hello-world-2.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
 </body>
 </html>
